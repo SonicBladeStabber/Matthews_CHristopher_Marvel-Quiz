@@ -1,6 +1,6 @@
 # Matthews_CHristopher_Marvel-Quiz
 
-Answer the questions yes if they mach your chosen marvel character based on the 3 available options
+Answer the questions yes if they mach your chosen marvel character based on the 3 available characters
 
 ### Prerequisites
 
