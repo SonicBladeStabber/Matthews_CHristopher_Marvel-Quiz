@@ -85,3 +85,4 @@ def Endverse():
         elif gameVars.Repeat not in gameVars.yes_no:
             print ("Your response was incorrect, please try again.")
             sleep (0.5)
+            
